@@ -1,0 +1,45 @@
+body {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.center {
+  text-align: center;
+}
+
+.card {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  /* font-size: 1.5rem; */
+}
+
+img {
+  margin: auto;
+  display: block;
+}
+
+h2,
+h4,
+h5 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.jumbotron {
+  background-image: url("../img/jumbotron_bg.jpg");
+  background-size: cover;
+}
