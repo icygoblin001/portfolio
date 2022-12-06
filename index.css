@@ -1,8 +1,19 @@
+.header {
+  font-size: 1.2rem;
+}
+
+.homeimg {
+  height: 25rem;
+  /* height: 25%; */
+}
+
 body {
   padding-top: 30px;
   padding-bottom: 50px;
   margin-right: 150px;
   margin-left: 150px;
+
+  background-image: url("imgs/ripples.png");
 }
 
 .card-img-top {
